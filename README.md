@@ -63,8 +63,6 @@ I love turning innovative ideas into real-world AI applications, and when I'm no
 ---
 
 # 🎯 Current Goals
-
-* 📄 Publish research papers in AI & Computer Vision
 * 🏆 Build impactful industry-level AI projects
 * 🎮 Develop immersive AR and Game Development projects
 * 🌍 Contribute to Open Source
