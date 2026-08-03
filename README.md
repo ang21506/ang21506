@@ -6,39 +6,6 @@
 
 📧 **Email:** **[atharvagonde21506@gmail.com](mailto:atharvagonde21506@gmail.com)**
 
----
-
-# 🚀 About Me
-
-🔭 **Currently Working On:**
-
-* AI-powered Image Classification using TinyML & Edge AI
-* AR-based applications for education and healthcare
-* Game Development projects using Unity & Godot
-
-🌱 **Currently Learning:**
-
-* Large Language Models (LLMs)
-* TinyML & TensorFlow Lite
-* Computer Vision
-* AR/VR Development
-* Cloud & DevOps Fundamentals
-
-👯 **Looking to Collaborate On:**
-
-* AI/ML Research Projects
-* Computer Vision Applications
-* AR/VR Solutions
-* Open Source Projects
-* Game Development
-
-🤔 **Looking for Help With:**
-
-* Research Paper Publishing
-* Advanced AI Model Optimization
-* Edge AI Deployment
-* AR + AI Integration
-
 💬 **Ask Me About:**
 
 * Artificial Intelligence
@@ -59,16 +26,6 @@ https://www.linkedin.com/in/atharva-gonde-409aa3380/
 
 ⚡ **Fun Fact:**
 I love turning innovative ideas into real-world AI applications, and when I'm not coding, you'll probably find me painting, playing cricket, or exploring story-driven games.
-
----
-
-# 🎯 Current Goals
-* 🏆 Build impactful industry-level AI projects
-* 🎮 Develop immersive AR and Game Development projects
-* 🌍 Contribute to Open Source
-* 💼 Secure an AI/ML Software Engineering role at a leading global tech company
-
-> *"Learning never stops. Every project is a step toward innovation."* 🚀
 
 
 ## 🌐 Socials:
