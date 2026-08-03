@@ -4,19 +4,6 @@
 
 📍 Passionate about building intelligent applications using **Artificial Intelligence, Computer Vision, Edge AI, and Augmented Reality**.
 
-📧 **Email:** **[atharvagonde21506@gmail.com](mailto:atharvagonde21506@gmail.com)**
-
-💬 **Ask Me About:**
-
-* Artificial Intelligence
-* Machine Learning
-* Computer Vision
-* Python
-* Unity & Godot
-* Edge AI
-* TinyML
-* Research Projects
-
 ## 📫 Connect With Me
 
 📧 **Email:** **[atharvagonde21506@gmail.com](mailto:atharvagonde21506@gmail.com)**
